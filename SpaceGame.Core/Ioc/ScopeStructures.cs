@@ -1,7 +1,7 @@
 using System.Collections.Concurrent;
-using SpaceBattle.Core.Abstractions;
+using SpaceGame.Core.Abstractions;
 
-namespace SpaceBattle.Core.Ioc;
+namespace SpaceGame.Core.Ioc;
 public interface IScope
 {
     IDictionary<string, Func<object[], object>> Dependencies { get; }

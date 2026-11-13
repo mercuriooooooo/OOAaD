@@ -1,6 +1,6 @@
-using SpaceBattle.Core.Abstractions;
+using SpaceGame.Core.Abstractions;
 
-namespace SpaceBattle.Core.Ioc;
+namespace SpaceGame.Core.Ioc;
 
 public static class IoC
 {

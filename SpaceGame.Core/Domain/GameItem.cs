@@ -1,6 +1,6 @@
-using SpaceBattle.Core.Abstractions;
+using SpaceGame.Core.Abstractions;
 
-namespace SpaceBattle.Core.Domain;
+namespace SpaceGame.Core.Domain;
 
 public class GameItem : IGameItem
 {
