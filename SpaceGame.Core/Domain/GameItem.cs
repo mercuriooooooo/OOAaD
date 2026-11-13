@@ -1,4 +1,4 @@
-using SpaceBattle.Core.Abstractions;
+using SpaceGame.Core.Abstractions;
 
 namespace SpaceBattle.Core.Domain;
 
