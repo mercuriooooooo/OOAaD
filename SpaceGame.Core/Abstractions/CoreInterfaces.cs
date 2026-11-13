@@ -1,4 +1,4 @@
-namespace SpaceBattle.Core.Abstractions;
+namespace SpaceGame.Core.Abstractions;
 public interface ICommand
 {
     void Execute();
