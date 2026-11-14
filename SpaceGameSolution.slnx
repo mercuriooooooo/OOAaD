@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SpaceGame.Core/SpaceGame.Core.csproj" />
+  <Project Path="SpaceGame.Tests/SpaceGame.Tests.csproj" />
+  <Project Path="SpaceBattle.Lib/SpaceBattle.Lib.csproj" />
+  <Project Path="SpaceBattle.Tests/SpaceBattle.Tests.csproj" />
+</Solution>
